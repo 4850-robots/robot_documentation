@@ -8,7 +8,7 @@ parent: Documentation
 
 ## The Cases
 
-Ratchet (#67) is in the case without casters. Clank (#68) is in the case with casters. Both cases can be unlocked with the code 0-9-0. The numbers on the locks must be aligned with the arrows on the side, then the button can be pressed to release the cable. Keep the lock attached to the case.
+Ratchet (#67) is in the case without casters. Clank (#68) is in the case with casters. Both cases can be unlocked with a three digit code. Please see Professor Perry for the code. The numbers on the locks must be aligned with the arrows on the side, then the button can be pressed to release the cable. Keep the lock attached to the case.
 
 Keep all parts in each case with that robot; The parts are unique to each of them.
 
